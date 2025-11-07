@@ -2,20 +2,20 @@ project:
   type: website
 
 website:
-  title: "Chaz Clark - Data Science Portfolio"
+  title: "Emmanuel Aiyetan - Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  site-url: https://byuidatascience.github.io/course_work_portfolio/
-  repo-url: https://github.com/byuidatascience/course_work_portfolio
-  issue-url: https://github.com/byuidatascience/course_work_portfolio/issues/new
+  site-url: https://emmanuel-aiyetan.github.io/emmanuel_aiyetan_fa27/
+  repo-url: https://github.com/Emmanuel-Aiyetan/emmanuel_aiyetan_fa27
+  issue-url: https://emmanuel-aiyetan.github.io/emmanuel_aiyetan_fa27/issues/new
   repo-actions: [issue]
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Emmanuel Aiyetan 2025©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/emmanuel-aiyetan-36ba17290/
 
   navbar:
     background: primary
