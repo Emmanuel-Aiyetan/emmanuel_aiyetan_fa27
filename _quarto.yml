@@ -23,24 +23,24 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      - text: "DS250 Projects"
+      - text: "Projects"
         file: 250_projects.qmd
 
   sidebar:
-    - title: "DS 250 Projects"
+    - title: "Projects"
       style: "docked"
       background: light
       contents:
-        - text: "DS250 Projects"
+        - text: "Projects"
           file: 250_projects.qmd
         - text: "---"
-        - text: "Project 3"
+        - text: "Project 1"
           file: 250_Projects/project3.qmd
         - text: "---"
-        - text: "Project 4"
+        - text: "Project 2"
           file: 250_Projects/project4.qmd
         - text: "---"
-        - text: "Project 5"
+        - text: "Project 3"
           file: 250_Projects/project5.qmd
         - text: "---"
 
